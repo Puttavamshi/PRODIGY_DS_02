@@ -38,11 +38,11 @@ Visualisations
 
 https://github.com/Puttavamshi/PRODIGY_DS_02/tree/main/Screenshots
 
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072353.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072551.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072559.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072604.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072612.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072619.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20072619.png
-https://github.com/Puttavamshi/PRODIGY_DS_02/blob/main/Screenshots/Screenshot%202026-04-09%20073649.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072353.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072551.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072559.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072604.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072612.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072619.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20072619.png
+https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/Screenshot%202026-04-09%20073649.png
