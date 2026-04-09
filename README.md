@@ -36,4 +36,4 @@ In this task, I performed Exploratory Data Analysis (EDA) on the Titanic dataset
 
 Visualisations 
 
-https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/eda1.png
+![EDA](https://github.com/Puttavamshi/PRODIGY_DS_02/raw/main/Screenshots/eda1.png)
